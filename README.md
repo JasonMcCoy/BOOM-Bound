@@ -6,7 +6,9 @@ This app is designed for both iPhone and iPad and requires iOS 8.0 or later. Com
 [![Platform](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat)](http://cocoapods.org/?q=YALSideMenu)
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/Yalantis/Side-Menu.iOS/blob/master/LICENSE)
 
-.gif of gameplay.
+
+.gif of gameplay (pre-release):
+
 http://mccoygames.com/wp-content/uploads/2016/07/Level-1-4.gif
 
 
