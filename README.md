@@ -7,9 +7,11 @@ This app is designed for both iPhone and iPad and requires iOS 8.0 or later. Com
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/Yalantis/Side-Menu.iOS/blob/master/LICENSE)
 
 
-.gif of gameplay (pre-release):
+.gif of gameplay:
 
-http://mccoygames.com/wp-content/uploads/2016/07/Level-1-4.gif
+![alt tag](http://mccoygames.com/wp-content/uploads/2016/11/lava-level.gif)
+
+![alt tag](http://mccoygames.com/wp-content/uploads/2016/11/aztec-level.gif)
 
 
 Download it on the iOS App Store:
