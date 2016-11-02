@@ -8,6 +8,7 @@ This app is designed for both iPhone and iPad and requires iOS 8.0 or later. Com
 
 
 .gif of gameplay:
+
 http://mccoygames.com/wp-content/uploads/2016/11/lava-level.gif
 
 http://mccoygames.com/wp-content/uploads/2016/11/aztec-level.gif
