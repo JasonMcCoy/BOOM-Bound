@@ -1,6 +1,9 @@
 # BOOM Bound - A Fast-paced, Real-time, Strategic Movement and Pattern mobile game.
 # By Jason McCoy
 
+![Alt text](http://mccoygames.com/wp-content/uploads/2016/11/twitter_header-2.png "BOOM Bound")
+
+
 This app is designed for both iPhone and iPad and requires iOS 8.0 or later. Compatible with iPhone, iPad, and iPod touch.
 
 [![Platform](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat)](http://cocoapods.org/?q=YALSideMenu)
