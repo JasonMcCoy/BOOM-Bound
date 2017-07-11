@@ -17,10 +17,11 @@ http://mccoygames.com/wp-content/uploads/2016/11/lava-level.gif
 http://mccoygames.com/wp-content/uploads/2016/11/aztec-level.gif
 
 
-
-
 Download it on the iOS App Store:
 https://itunes.apple.com/us/app/boom-bound/id1169358607?mt=8
+
+Download it on the Google Play Store:
+https://play.google.com/store/apps/details?id=com.JasonMcCoy.BOOMBound&hl=en
 
 
 BOOM Bound is a Fast-paced, Real-time, Strategic Movement and Pattern mobile game.
@@ -36,5 +37,5 @@ The game consists of:
 * 8 unique explosion animations
 
 
-Look at more of my apps here:
+Look at my other work here:
 https://itunes.apple.com/us/developer/jason-mccoy/id1059354758
