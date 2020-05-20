@@ -28,6 +28,3 @@ https://www.instagram.com/fracturize/
 Wanted to credit and say thank you to @KenneyNL for allowing me to use his spaceship art asset for level 27.
 
 Thank you to Jim Kulakowski for creating such amazing game music assets.
-
-Look at my other work here:
-https://itunes.apple.com/us/developer/jason-mccoy/id1059354758
